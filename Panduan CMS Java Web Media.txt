@@ -1,0 +1,13 @@
+CMS JAVA WEB MEDIA - CMS ini dibuat untuk kepentingan belajar. Anda dapat menggunakannya kapan pun dan dimanapun sesuai kebutuhan Anda.
+
+
+DIREKTUR
+Username: direktur
+Password: direktur
+
+ADMIN
+Username: admin
+Password: admin
+
+HALAMAN LOGIN
+http://localhost/NAMAFOLDER/login
